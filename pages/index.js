@@ -87,7 +87,7 @@ const Home = () => (
         </BioSection>
         <BioSection>
           <BioYear>2022</BioYear>
-            Разработал проект арбитрожа криптовалют.
+            Разработал проект арбитража криптовалют.
         </BioSection>
         <BioSection>
           <BioYear>2023</BioYear>
